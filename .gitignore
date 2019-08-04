@@ -1,0 +1,10 @@
+.idea
+/vendor
+.vagrant
+/backup
+!/backup/.gitignore
+/config/params-local.php
+/config/mailer.php
+/provision/dev.retry
+/provision/production.retry
+/web/source/node_modules/*
